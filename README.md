@@ -10,7 +10,7 @@ click on the link to open Flashcard generator ( project)
 
 
 
-## Explanation Video ( Youtube ) Link 
+## Explanation Video Link 
 
 - https://drive.google.com/file/d/14-eTjgPQDvNnANbO4eWWzDqnBX9y03mO/view?usp=share_link
 
