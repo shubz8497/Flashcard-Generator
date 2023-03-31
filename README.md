@@ -20,7 +20,7 @@ click on the link to open Flashcard generator ( project)
 Clone the project
 
 ```bash
-  git clone https://github.com/Arpanwaddewar/Almabetter-Frontend-capston-project.git
+  https://github.com/shubz8497/Flashcard-Generator.git
 ```
 
 Install dependencies
@@ -90,5 +90,5 @@ This project is created with mainly  Reactjs , In this  project mainly we have t
 
 
 
-## 🛠 Skills
+## Skills
 Javascript, HTML, CSS , Reactjs 
