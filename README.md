@@ -1,5 +1,5 @@
  # Almabetter capston project - Flashcard Generator 
- This is a frontend capston project given by the Almabetter which is Flashcard Generator 
+ This is a frontend capstone project given by the Almabetter which is Flashcard Generator 
 
 
 ## Deployment
@@ -92,9 +92,3 @@ This project is created with mainly  Reactjs , In this  project mainly we have t
 
 ## 🛠 Skills
 Javascript, HTML, CSS , Reactjs 
-
-
-##  Project Created With 
-@Kaushal Kishor 
-GitHub Link : https://github.com/kaushal2608
-
