@@ -1,4 +1,4 @@
- # Almabetter capston project - Flashcard Generator 
+ # Almabetter capstone project - FLASHCARD GENERATOR
  This is a frontend capstone project given by the Almabetter which is Flashcard Generator 
 
 
